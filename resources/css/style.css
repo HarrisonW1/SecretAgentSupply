@@ -38,3 +38,11 @@ body {
   background-size: cover;
   height: 25rem;
 }
+
+.headline {
+  position: relative;
+  top: 9rem;
+  width: 20rem;
+  padding: 2rem 3rem;
+  background-color: black;
+  color: white;
