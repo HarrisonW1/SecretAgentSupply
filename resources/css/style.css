@@ -21,3 +21,8 @@ body {
   align-items: center;
   padding: 12px 0 12px 0.5em;
 }
+
+.company img {
+  height: 1.5em;
+  padding-right: 15px;
+}
