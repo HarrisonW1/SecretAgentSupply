@@ -1,17 +1,23 @@
 html {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 body {
-    font-family: Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 .company {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
 .container {
-    max-width: 960px;
-    margin: 0 auto;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.company .container {
+  display: flex;
+  align-items: center;
+  padding: 12px 0 12px 0.5em;
 }
