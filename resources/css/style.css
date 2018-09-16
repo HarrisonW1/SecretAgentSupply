@@ -1,3 +1,4 @@
+/* Entire Page */
 html {
   font-size: 18px;
 }
@@ -7,6 +8,7 @@ body {
   line-height: 1.4em;
 }
 
+/* Company Header */
 .company {
   background-color: black;
   color: white;
@@ -26,4 +28,13 @@ body {
 .company img {
   height: 1.5em;
   padding-right: 15px;
+}
+
+/* Main Header */
+.main-banner {
+  background: url("../../resources/Images/moto.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25rem;
 }
